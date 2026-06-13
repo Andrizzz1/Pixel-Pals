@@ -1,0 +1,10 @@
+@font-face {
+  font-family: jersey;
+  src: url(../src/assets/fonts/Jersey10-Regular.ttf);
+}
+@import "tailwindcss";
+@plugin "tailwindcss-motion";
+
+@theme{
+  --font-jersey:jersey,"sans-serif"
+}
