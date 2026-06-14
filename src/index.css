@@ -8,3 +8,13 @@
 @theme{
   --font-jersey:jersey,"sans-serif"
 }
+
+
+body {
+  background-color: #fdf6e3; 
+  background-image:
+    linear-gradient(rgba(50, 30, 10, 0.3) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(50, 30, 10, 0.3) 1px, transparent 1px);
+  background-size: 40px 40px;
+}
+
